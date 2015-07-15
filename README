@@ -1,0 +1,3 @@
+# Map function
+
+def map(list: List[Int], op: (Int) => Int): List[Int]
